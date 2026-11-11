@@ -45,3 +45,5 @@ next-env.d.ts
 # Chave de assinatura do app Android — nunca versionar
 *.keystore
 signing-key-info.txt
+
+# Configuração local de desenvolvimento
